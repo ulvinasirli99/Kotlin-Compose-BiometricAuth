@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComposeLockScreen</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="micky">Ulvi! &#127881;</string>
+    <string name="sub_title">Enter your transaction pin to continue your financial journey</string>
+    <string name="forgot_transaction_pin">Forgot transaction pin?</string>
+    <string name="continue_with_face_id">Continue with Face ID</string>
+    <string name="not_micky">Not Ulvi?</string>
+    <string name="log_out">" Log out"</string>
+    <string name="feature_under_development">Feature under development</string>
+</resources>
